@@ -1,4 +1,5 @@
 # OpenAIWorkhorse -Opensource AI  Workhorse 
+AI organization OS 
 
 Build Your AI Workforce.Hire. Manage. Evolve AI like a real team.
 
