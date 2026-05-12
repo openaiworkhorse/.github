@@ -1,4 +1,4 @@
-# Opensource AIWorkhorse 项目总纲
+# OpenAIWorkhorse -Opensource AI  Workhorse
 
 **版本：** 1.5  
 **日期：** 2026-05-12  
