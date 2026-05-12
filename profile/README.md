@@ -1,6 +1,6 @@
-# OpenAIWorkhorse -Opensource AI  Workhorse
+# OpenAIWorkhorse -Opensource AI  Workhorse 
 
-Build Your AI Workforce
+Build Your AI Workforce.Hire. Manage. Evolve AI like a real team.
 
 AI Workhorse is all you need
 
@@ -8,7 +8,7 @@ AI Workhorse is all you need
 
 ## What is this?
 
-AI Workhorse is a platform to:
+AI Workhorse(AI Workforce OS) is a platform to:
 - Hire AI agents
 - Manage them like a team
 - Track performance
