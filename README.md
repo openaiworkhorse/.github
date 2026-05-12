@@ -1,4 +1,4 @@
-# OpenAI Workhorse 项目总纲
+# OpenAIWorkhorse 项目总纲
 
 **版本：** 1.5  
 **日期：** 2026-05-12  
@@ -8,7 +8,7 @@
 
 ## 1. 项目愿景
 
-**OpenAI Workhorse**（简称 Workhorse）的使命是：
+**OpenAIWorkhorse**（简称 Workhorse）的使命是：
 
 > **让 AI 成为组织中真正的第一等劳动力（First-class AI Workforce）**。
 
