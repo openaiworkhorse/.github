@@ -1,5 +1,7 @@
 # OpenAIWorkhorse -Opensource AI  Workhorse
 
+AI Workhorse is all you need
+
 **让 AI 成为组织中真正的第一等劳动力**
 
 > You own the product. Workhorse owns the team.
